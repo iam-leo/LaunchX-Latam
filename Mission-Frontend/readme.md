@@ -7,3 +7,5 @@ Aquí encontrarán las prácticas correspondientes a cada módulo de esta misió
 :man_astronaut: <a href="https://github.com/iam-leo/LaunchX-Latam-HTML"> HTML </a>
 
 :man_astronaut: <a href="https://github.com/iam-leo/LaunchX-Latam-CSS"> CSS </a>
+
+:man_astronaut: <a href="https://github.com/iam-leo/Pokedex"> JS </a>
